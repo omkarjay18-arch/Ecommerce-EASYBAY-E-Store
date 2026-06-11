@@ -23,7 +23,7 @@ Follow these steps to set up and run the E-Commerce Store on your local machine.
 Clone this repository to your local machine using the following command:
 
 ```shell
-(https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store-dash.git)
+(https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store)
 ```
 
 ### Installing Packages
