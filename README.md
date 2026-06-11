@@ -12,7 +12,7 @@ Before you begin, ensure you have the following:
 
 ## Admin Setup
 
-**Note: Before setting up the E-Commerce Store, make sure you have the [Admin Dashboard](https://github.com/mrExplorist/store-dash.git) configured and running locally.**
+**Note: Before setting up the E-Commerce Store, make sure you have the [Admin Dashboard](https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store-dash.git) configured and running locally.**
 
 ## Getting Started
 
