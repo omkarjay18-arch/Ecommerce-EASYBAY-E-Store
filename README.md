@@ -12,7 +12,7 @@ Before you begin, ensure you have the following:
 
 ## Admin Setup
 
-**Note: Before setting up the E-Commerce Store, make sure you have the [Admin Dashboard](https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store) configured and running locally.**
+**Note: Before setting up the E-Commerce Store, make sure you have the [Admin Dashboard](https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store.git) configured and running locally.**
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ Follow these steps to set up and run the E-Commerce Store on your local machine.
 Clone this repository to your local machine using the following command:
 
 ```shell
-(https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store)
+https://github.com/omkarjay18-arch/Ecommerce-EASYBAY-E-Store.git
 ```
 
 ### Installing Packages
